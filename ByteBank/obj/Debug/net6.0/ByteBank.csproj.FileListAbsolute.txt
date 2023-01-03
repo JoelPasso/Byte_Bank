@@ -1,0 +1,15 @@
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\refint\ByteBank.dll
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+C:\Users\joelm\OneDrive\Área de Trabalho\Imã Learning Place\Exercícios beecrowd\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
